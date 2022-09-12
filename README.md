@@ -9,7 +9,7 @@ A web application that have a form where a user can make a question & can be sav
 #### 1. Clone Repository
 
 ```bash
-git clone git@github.com:HZN-one/marketplace.git
+git clone git@github.com:pranotoism/SurveyReact.git
 ```
 
 #### 2. Install dependencies.
