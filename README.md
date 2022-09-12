@@ -20,15 +20,7 @@ Make sure you have pnpm installed. [pnpm installation](https://pnpm.io/id/instal
 pnpm install
 ```
 
-#### 3. Create environment variable file
-
-Get env value from your coworker
-
-```bash
-touch env.local
-```
-
-#### 4. Run dev server
+#### 3. Run dev server
 
 ```bash
 pnpm dev
